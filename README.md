@@ -5,5 +5,5 @@
 <img src = "Wallpaper8.jpg">
 1. Blue
 2. Green
-3. Yellow
-4. Pink
+* Yellow
+* Pink
